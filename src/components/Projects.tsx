@@ -102,14 +102,6 @@ export function Projects() {
                   </ul>
                 </div>
               </CardContent>
-              <CardFooter className="gap-2">
-                <Button variant="outline" size="sm" asChild>
-                  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-                    <Github className="w-4 h-4 mr-2" />
-                    Code
-                  </a>
-                </Button>
-              </CardFooter>
             </Card>
           ))}
         </div>
