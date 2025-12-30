@@ -1,7 +1,4 @@
 
-  # Portfolio Website for Yash
-
-  This is a code bundle for Portfolio Website for Yash. The original project is available at https://www.figma.com/design/M3gWSwYWht6jrSIlLZHbS5/Portfolio-Website-for-Yash.
 
   ## Running the code
 
