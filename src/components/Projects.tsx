@@ -109,10 +109,6 @@ export function Projects() {
                     Code
                   </a>
                 </Button>
-                <Button variant="outline" size="sm">
-                  <ExternalLink className="w-4 h-4 mr-2" />
-                  Demo
-                </Button>
               </CardFooter>
             </Card>
           ))}
