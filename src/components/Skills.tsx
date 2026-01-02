@@ -8,8 +8,6 @@ const skillCategories = [
     title: "Programming",
     skills: [
       "Python",
-      "C++",
-      "Java",
       "JavaScript",
       "HTML/CSS (Basics)",
     ],
@@ -42,6 +40,7 @@ const skillCategories = [
       "MySQL",
       "SQLite",
       "MongoDB",
+      "PostgreSql"
     ],
   },
   {
