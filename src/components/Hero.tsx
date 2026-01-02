@@ -22,7 +22,7 @@ export function Hero() {
               Yash Sanjay Chavan
             </h1>
             <p className="text-xl sm:text-2xl text-muted-foreground max-w-2xl mx-auto">
-              Aspiring Full Stack Developer & AI/ML Engineer
+              Aspiring Backend Developer & AI/ML Engineer
             </p>
           </div>
 
