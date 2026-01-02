@@ -16,7 +16,7 @@ export function About() {
           <div className="space-y-6">
             <h3 className="text-2xl">Hello! I'm Yash Chavan</h3>
             <p className="text-muted-foreground">
-              I'm an aspiring Full Stack Developer and AI/ML Engineer with a passion for creating 
+              I'm an aspiring Backend Developer and AI/ML Engineer with a passion for creating 
               innovative digital solutions. Currently pursuing my Bachelor of Technology in Computer 
               Science, I focus on building web applications and machine learning systems that solve 
               real-world problems.
